@@ -601,6 +601,10 @@ video {
   top: 8rem;
 }
 
+.top-52 {
+  top: 13rem;
+}
+
 .m-5 {
   margin: 1.25rem;
 }
@@ -664,6 +668,10 @@ video {
 
 .h-2 {
   height: 0.5rem;
+}
+
+.h-96 {
+  height: 24rem;
 }
 
 .w-10 {
